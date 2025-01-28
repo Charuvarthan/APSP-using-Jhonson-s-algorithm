@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/merva/Desktop/APSP/code/build",
+  "command": "/usr/bin/g++  -I/home/merva/Desktop/APSP/code/include -g -o CMakeFiles/apsp_project.dir/src/BellmanFord.cpp.o -c /home/merva/Desktop/APSP/code/src/BellmanFord.cpp",
+  "file": "/home/merva/Desktop/APSP/code/src/BellmanFord.cpp",
+  "output": "CMakeFiles/apsp_project.dir/src/BellmanFord.cpp.o"
+},
+{
+  "directory": "/home/merva/Desktop/APSP/code/build",
+  "command": "/usr/bin/g++  -I/home/merva/Desktop/APSP/code/include -g -o CMakeFiles/apsp_project.dir/src/Dijkstra.cpp.o -c /home/merva/Desktop/APSP/code/src/Dijkstra.cpp",
+  "file": "/home/merva/Desktop/APSP/code/src/Dijkstra.cpp",
+  "output": "CMakeFiles/apsp_project.dir/src/Dijkstra.cpp.o"
+},
+{
+  "directory": "/home/merva/Desktop/APSP/code/build",
+  "command": "/usr/bin/g++  -I/home/merva/Desktop/APSP/code/include -g -o CMakeFiles/apsp_project.dir/src/Edge.cpp.o -c /home/merva/Desktop/APSP/code/src/Edge.cpp",
+  "file": "/home/merva/Desktop/APSP/code/src/Edge.cpp",
+  "output": "CMakeFiles/apsp_project.dir/src/Edge.cpp.o"
+},
+{
+  "directory": "/home/merva/Desktop/APSP/code/build",
+  "command": "/usr/bin/g++  -I/home/merva/Desktop/APSP/code/include -g -o CMakeFiles/apsp_project.dir/src/Graph.cpp.o -c /home/merva/Desktop/APSP/code/src/Graph.cpp",
+  "file": "/home/merva/Desktop/APSP/code/src/Graph.cpp",
+  "output": "CMakeFiles/apsp_project.dir/src/Graph.cpp.o"
+},
+{
+  "directory": "/home/merva/Desktop/APSP/code/build",
+  "command": "/usr/bin/g++  -I/home/merva/Desktop/APSP/code/include -g -o CMakeFiles/apsp_project.dir/src/Johnson.cpp.o -c /home/merva/Desktop/APSP/code/src/Johnson.cpp",
+  "file": "/home/merva/Desktop/APSP/code/src/Johnson.cpp",
+  "output": "CMakeFiles/apsp_project.dir/src/Johnson.cpp.o"
+},
+{
+  "directory": "/home/merva/Desktop/APSP/code/build",
+  "command": "/usr/bin/g++  -I/home/merva/Desktop/APSP/code/include -g -o CMakeFiles/apsp_project.dir/src/main.cpp.o -c /home/merva/Desktop/APSP/code/src/main.cpp",
+  "file": "/home/merva/Desktop/APSP/code/src/main.cpp",
+  "output": "CMakeFiles/apsp_project.dir/src/main.cpp.o"
+}
+]

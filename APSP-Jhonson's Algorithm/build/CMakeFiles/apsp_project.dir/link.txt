@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/apsp_project.dir/src/BellmanFord.cpp.o CMakeFiles/apsp_project.dir/src/Dijkstra.cpp.o CMakeFiles/apsp_project.dir/src/Edge.cpp.o CMakeFiles/apsp_project.dir/src/Graph.cpp.o CMakeFiles/apsp_project.dir/src/Johnson.cpp.o CMakeFiles/apsp_project.dir/src/main.cpp.o -o apsp_project 
